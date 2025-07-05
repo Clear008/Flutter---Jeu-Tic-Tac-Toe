@@ -19,12 +19,14 @@ Il utilise **les widgets Flutter modernes**, des **animations**, et une **logiqu
 ## 🧱 Structure du projet
 
 lib/
-├── main.dart # Point d'entrée principal
-├── screens/
-│ ├── login_screen.dart # Écran pour entrer les noms des deux joueurs
-│ └── tictactoe_screen.dart # Écran de jeu contenant le plateau
-├── widgets/
-│ └── tictactoe_board.dart # Composant du plateau avec logique du jeu
+- ├── main.dart # Point d'entrée principal
+
+- ├── screens/
+- │ ├── login_screen.dart # Écran pour entrer les noms des deux joueurs
+- │ └── tictactoe_screen.dart # Écran de jeu contenant le plateau
+
+- ├── widgets/
+- │ └── tictactoe_board.dart # Composant du plateau avec logique du jeu
 
 
 
